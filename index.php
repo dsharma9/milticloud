@@ -1,7 +1,4 @@
-
-<body style="background-color:powderblue;">
 <pre>
-<body style="background-color:powderblue;">
 <?php
 
 print("This is web server")
