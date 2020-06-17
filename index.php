@@ -1,11 +1,11 @@
 <pre>
 <?php
 
-print("This is web server")
-print("\n")
-print `date`
+print("This is web server");
+print("\n");
+print `date`;
 
-print `ifconfig`
+print `ifconfig`;
 
 ?>
 
