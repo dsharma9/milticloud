@@ -8,6 +8,6 @@ print `date`;
 
 ?>
 
-<img src="https://web-image-bucket-98765.s3.amazonaws.com/image.jpg">
+<img src="https://web-image-bucket-98765.s3.amazonaws.com/drivingue.jpg">
 
 </pre>
